@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I’m working as a Full-Stack developer and contributing to frontend and backend for building web applications.
 
   - :seedling: Exploring TypeScript and Nest.js.
 
