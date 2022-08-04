@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-magelon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/magomed-adizov/)
 
+  ### :hammer_and_wrench: Languages and Tools :
+  
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </div>
