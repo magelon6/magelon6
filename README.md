@@ -20,6 +20,10 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/magomed-adizov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
     </a>
+     <a href="https://career.habr.com/magelon">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
+    
 </div>
 
