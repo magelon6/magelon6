@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
     </a>
      <a href="https://career.habr.com/magelon">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge&logo=habr&logoColor=white" alt="habr Badge"/>
     </a>
   </div>
     
