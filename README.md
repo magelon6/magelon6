@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge&logo=habr&logoColor=white" alt="habr Badge"/>
     </a>
   </div>
-    <img src="https://komarev.com/ghpvc/?username=https://github.com/magelon6&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=magelon6&style=flat-square&color=blue" alt=""/>
     
 </div>
 
