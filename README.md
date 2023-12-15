@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </h1>
 </div>
   
-  ### :woman_technologist: About Me :
+  About Me :
   
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
